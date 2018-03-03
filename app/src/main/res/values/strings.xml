@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Seville Travel Guide</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="plaza1">Plaza de España is a plaza located in Seville, Spain. It was built in 1928 and is one of the most impressive building in Seville. It was a principal building built on the Maria Luisa Park’s edge to showcase Spain’s industry and technology exhibits.</string>
+    <string name="cat1">The Giralda (Spanish: La Giralda) is the bell tower of the Seville Cathedral in Seville, Spain.[1] It was originally built as a minaret during the Moorish period, during the reign of the Almohad dynasty with a Renaissance style top subsequently added by Spanish conquistadors after the expulsion of the Muslims from the area.</string>
+    <string name="alc2">Court Maidens Arches at the Royal Alcázar in Seville displaying the repeated patterns of archways varying in design of Moorish architecture. </string>
+    <string name="alc3">Colorful Moorish motifs on the wall inside Royal Alcázar of Seville.</string>
+    <string name="alcazar1">Architecture is not just about the development of a design style or how to build a bridge that works effectively.   Architecture is a universal art that affects everyone.  It has the power to create icons that can shape and define our world.   Often, architectural design incorporates cultural influences.  The Royal Alcázar of Seville in Spain is one such example, and one of my favorites.  ‘Alcázar’ comes from the Hispano-Arabic word ‘Alqáşr’ meaning ‘Royal House.’</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

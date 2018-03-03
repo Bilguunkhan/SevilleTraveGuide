@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="edu.aubg.myapplication.VideosActivity">
+
+    <Button
+
+        android:id="@+id/button1"
+
+        android:layout_width="fill_parent"
+
+        android:layout_height="wrap_content"
+
+        android:text="Seville Time Lapse"
+
+        android:textColor="@color/colorPrimary"
+        android:background="@color/white"
+
+        android:onClick="selectFragment" />
+
+
+    <fragment
+
+        android:name="edu.aubg.myapplication.FragmentOne"
+
+        android:id="@+id/fragment_place"
+
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent" />
+
+</LinearLayout>
